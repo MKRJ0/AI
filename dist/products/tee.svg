@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" fill="none">
+  <defs><linearGradient id="bg" x1="48" y1="14" x2="592" y2="790" gradientUnits="userSpaceOnUse"><stop stop-color="#34303b"/><stop offset="1" stop-color="#19161e"/></linearGradient><linearGradient id="cloth" x1="187" y1="163" x2="464" y2="631" gradientUnits="userSpaceOnUse"><stop stop-color="#4a4650"/><stop offset=".55" stop-color="#34313a"/><stop offset="1" stop-color="#27242c"/></linearGradient><linearGradient id="light" x1="218" y1="190" x2="401" y2="579" gradientUnits="userSpaceOnUse"><stop stop-color="#b7a9c7" stop-opacity=".2"/><stop offset="1" stop-color="#16141a" stop-opacity=".06"/></linearGradient><filter id="shadow" x="95" y="135" width="455" height="623" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="17"/></filter></defs>
+  <path fill="url(#bg)" d="M0 0h640v800H0z"/><circle cx="320" cy="392" r="244" fill="#c8b6e7" fill-opacity=".055"/><ellipse cx="320" cy="694" fill="#09080b" fill-opacity=".58" rx="166" ry="22" filter="url(#shadow)"/>
+  <path d="m250 174-59 22-69 99 52 43 49-51-8 342c67 32 164 32 230 0l-8-342 49 51 52-43-69-99-59-22c-7 37-34 59-80 59s-73-22-80-59Z" fill="url(#cloth)" stroke="#928a9b" stroke-opacity=".5" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M250 174c7 37 34 59 70 59s73-22 80-59" stroke="#b6a9c2" stroke-opacity=".52" stroke-width="3"/>
+  <path d="M258 187c10 29 31 44 62 44s52-15 62-44l43 37-7 377c-59 24-137 24-196 0l-7-377 43-37Z" fill="url(#light)"/>
+  <path d="m214 330 9 286m203-286-9 286M231 612c52 17 126 17 178 0" stroke="#aea5b6" stroke-opacity=".4" stroke-width="2"/>
+  <path d="m138 294 30 25m334-25-30 25" stroke="#17151b" stroke-opacity=".5" stroke-width="5"/>
+</svg>

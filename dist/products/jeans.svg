@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" fill="none">
+  <defs><linearGradient id="bg" x1="10" y1="20" x2="630" y2="780" gradientUnits="userSpaceOnUse"><stop stop-color="#293343"/><stop offset="1" stop-color="#141923"/></linearGradient><linearGradient id="denim" x1="203" y1="136" x2="440" y2="692" gradientUnits="userSpaceOnUse"><stop stop-color="#61748c"/><stop offset=".48" stop-color="#405673"/><stop offset="1" stop-color="#2c3d55"/></linearGradient><linearGradient id="fade" x1="230" y1="160" x2="411" y2="657" gradientUnits="userSpaceOnUse"><stop stop-color="#a4b5c9" stop-opacity=".34"/><stop offset="1" stop-color="#233147" stop-opacity=".08"/></linearGradient><filter id="shadow" x="100" y="94" width="440" height="680" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="17"/></filter></defs>
+  <path fill="url(#bg)" d="M0 0h640v800H0z"/><circle cx="320" cy="382" r="246" fill="#9bb3d2" fill-opacity=".065"/><ellipse cx="320" cy="705" fill="#070a0f" fill-opacity=".56" rx="160" ry="21" filter="url(#shadow)"/>
+  <path d="m216 131 208 4 16 183-39 349c-28 13-63 13-92 0l-11-291-12 291c-30 12-65 12-93 0l-2-349 25-187Z" fill="url(#denim)" stroke="#a5b6ca" stroke-opacity=".48" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m216 131 208 4 7 79c-63 23-157 22-222-2l7-81Z" fill="url(#fade)" stroke="#b3c1d0" stroke-opacity=".4" stroke-width="2"/>
+  <path d="M210 209c66 24 158 25 221 2m-111 0-9 167m-86-167 6 344m193-344-34 344m-78-177-12 291m12-291 12 291" stroke="#c0ccda" stroke-opacity=".48" stroke-width="2"/>
+  <path d="m229 234 44 7-3 76-50-8 9-75Zm182 7 44-7 9 75-50 8-3-76Z" stroke="#b8c5d2" stroke-opacity=".48" stroke-width="2"/>
+  <path d="M302 171h36m-33 19h30m-28 18h25" stroke="#d3c48f" stroke-opacity=".8" stroke-width="3"/>
+  <circle cx="320" cy="224" r="4" fill="#cfbd82"/>
+</svg>
